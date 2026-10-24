@@ -48,9 +48,9 @@ plt.ylabel("Sales")
 plt.show()
 
 #Libraries Used
-- **Pandas:** Used to load the dataset and summarize sales information by category and region.
-- **Matplotlib:** Helps generate the bar chart, pie chart, and line graph.
-- **Tableau:** Used to combine individual worksheets into an interactive dashboard.
+- Pandas: Used to load the dataset and summarize sales information by category and region.
+- Matplotlib: Helps generate the bar chart, pie chart, and line graph.
+- tableau:Used to combine individual worksheets into an interactive dashboard.
 
 #Sample Output
 The program generates three graphical representations of the sales dataset:
